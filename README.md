@@ -42,16 +42,16 @@ I'm **Wan Ahnaf**, a developer who builds full-stack web apps and cross-platform
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SShinbae&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SShinbae&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SShinbae&theme=tokyonight" width="100%" alt="Profile details and contribution graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SShinbae&theme=tokyonight" height="165" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SShinbae&theme=tokyonight" height="165" alt="Top languages"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SShinbae&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SShinbae&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution graph"/>
 </p>
 
 ### 📰 daily.dev
